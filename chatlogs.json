@@ -1,51 +1,17 @@
 [
-    {
-        "timestamp": "2025-06-10T16:40:47.887634",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "hey",
-        "response": "Hey there! \ud83d\udc4b What's up? How can I help you today? \ud83d\ude0a"
-    },
-    {
-        "timestamp": "2025-06-10T16:42:56.048886",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "I am class 12th arts studebnt, help me in exploring study filedws after 12th",
-        "response": "As a Class 12 Arts student, you have a wide range of exciting career options across diverse fields like **Humanities, Social Sciences, Design, Law, Media, and more**. Here\u2019s a structured guide to help you explore your options:\n\n---\n\n### **1. Traditional Academic Fields (Bachelor\u2019s Degrees)**  \nThese are popular choices for Arts students and can lead to careers in education, research, civil services, etc.  \n- **BA (Bachelor of Arts)** \u2013 Specialize in:  \n  - **Psychology** \u2192 Counselor, Therapist, HR  \n  - **History** \u2192 Historian, Archaeologist, Museology  \n  - **Political Science** \u2192 Civil Services, Policy Analyst  \n  - **Economics** \u2192 Economist, Financial Analyst  \n  - **Sociology** \u2192 Social Worker, NGO Roles  \n  - **English Literature** \u2192 Writer, Content Creator, Professor  \n\n- **BFA (Fine Arts)** \u2192 Painter, Sculptor, Art Director  \n- **BA in Music/Dance/Theatre** \u2192 Performer, Art Teacher  \n\n---\n\n### **2. Professional & Job-Oriented Courses**  \nThese degrees combine arts with practical skills for quicker employability.  \n- **BBA (Business Administration)** \u2192 Management, Entrepreneurship  \n- **BHM (Hotel Management)** \u2192 Hospitality, Event Management  \n- **BMS (Management Studies)** \u2192 Corporate Jobs, Startups  \n- **B.Des (Design)** \u2192 Fashion, Graphic, Interior Design  \n- **BJMC (Journalism & Mass Communication)** \u2192 Reporter, PR, Advertising  \n- **BFA (Film & TV)** \u2192 Director, Scriptwriter, Editor  \n\n---\n\n### **3. Creative & Emerging Fields**  \nIf you have a creative flair, consider:  \n- **Animation & VFX** \u2192 Animator, Game Designer  \n- **Digital Marketing** \u2192 Social Media Manager, SEO Specialist  \n- **Photography & Videography** \u2192 Freelancer, Documentary Maker  \n- **Creative Writing** \u2192 Author, Screenwriter, Copywriter  \n\n---\n\n### **4. Law & Public Services**  \n- **LLB (5-year integrated course after 12th)** \u2192 Lawyer, Legal Advisor  \n- **UPSC Civil Services** \u2192 IAS, IPS, IFS (Start preparing early)  \n- **Defense Services** \u2192 Army, Navy, Air Force (via NDA/CDS)  \n\n---\n\n### **5. Skill-Based Diplomas & Certifications**  \nShort-term courses to boost employability:  \n- **Foreign Languages** (French, German, Japanese) \u2192 Translator, BPO Jobs  \n- **Event Management** \u2192 Wedding Planner, Corporate Events  \n- **Web Designing/UI-UX** \u2192 Front-end Developer, Freelancer  \n- **Culinary Arts** \u2192 Chef, Food Blogger  \n\n---\n\n### **6. Unconventional Career Paths**  \n- **Travel & Tourism** \u2192 Tour Guide, Travel Blogger  \n- **Social Media Influencer** \u2192 YouTube, Instagram Monetization  \n- **NGO Work** \u2192 Social Activist, Fundraiser  \n- **Psychology + Counseling** \u2192 Mental Health Professional  \n\n---\n\n### **Next Steps:**  \n1. **Identify Interests** \u2013 Are you into writing, creativity, social issues, or business?  \n2. **Research Colleges** \u2013 Delhi University, JNU, TISS, NIFT, SRCC, etc.  \n3. **Entrance Exams** \u2013 CUET (for BA), NID (Design), CLAT (Law), NPAT (BBA).  \n4. **Internships** \u2013 Try freelancing or volunteering to test your interests.  \n\nWould you like recommendations based on your specific strengths (e.g., writing, creativity, analytical skills)? \ud83d\ude0a"
-    },
-    {
-        "timestamp": "2025-06-10T16:49:27.673062",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "hey bro",
-        "response": "Hey bro! What's up? \ud83d\ude0e How can I help you out today?"
-    },
-    {
-        "timestamp": "2025-06-10T16:49:45.506698",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "who are you",
-        "response": "I\u2019m DeepSeek Chat, an AI assistant created by DeepSeek. My purpose is to help answer your questions, provide information, and assist with various tasks like research, learning, coding, and more! \ud83d\ude0a  \n\nI\u2019m powered by advanced natural language processing and can chat with you on a wide range of topics. Let me know how I can help\u2014what\u2019s on your mind today? \ud83d\ude80"
-    },
-    {
-        "timestamp": "2025-06-10T17:11:09.909441",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "hey bro",
-        "response": "Hey bro! What's up? \ud83d\ude0e How can I help you today?"
-    },
-    {
-        "timestamp": "2025-06-10T17:20:11.259913",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "hey",
-        "response": "Hey! \ud83d\ude0a What's up? How can I help you today?"
-    },
-    {
-        "timestamp": "2025-06-10T17:20:25.244463",
-        "user": "notwhite_88582",
-        "user_id": "1319724767099617283",
-        "prompt": "whats 2+99+11",
-        "response": "To find the sum of \\(2 + 99 + 11\\), follow these simple steps:\n\n1. **Add the first two numbers:**\n   \\[\n   2 + 99 = 101\n   \\]\n\n2. **Add the result to the third number:**\n   \\[\n   101 + 11 = 112\n   \\]\n\n**Final Answer:**\n\\[\n\\boxed{112}\n\\]"
-    }
+  {
+    "prompt": "hi",
+    "response": "Hello! \ud83d\udc4b Welcome to WhiteGPT, your friendly programming and tech tutor. How can I assist you today? Whether you're curious about:\n\n- **AI/ML concepts** (like neural networks, LLMs, etc.)\n- **Programming help** (Python, JavaScript, etc.)\n- **Debugging code**\n- **Tech explanations** (algorithms, APIs, etc.)\n- **Career/learning guidance**\n\nJust ask! For example:  \n*\u201cHow do recursive functions work?\u201d* or *\u201cExplain transformers in AI like I\u2019m 5.\u201d*  \n\nLet\u2019s dive in! \ud83d\ude80",
+    "timestamp": "2025-06-10T18:27:52.392040"
+  },
+  {
+    "prompt": "hi",
+    "response": "Hello! \ud83d\udc4b Welcome to WhiteGPT, your friendly programming and tech tutor assistant. How can I help you today? Whether you're curious about AI, stuck on a coding problem, or just want to learn something new\u2014ask away!  \n\nFor example:  \n- *\"Can you explain how neural networks work in simple terms?\"*  \n- *\"Why does my Python code keep giving a 'list index out of range' error?\"*  \n- *\"What\u2019s the difference between HTTP and HTTPS?\"*  \n\nLet\u2019s dive in! \ud83d\ude80",
+    "timestamp": "2025-06-10T18:29:51.091593"
+  },
+  {
+    "prompt": "hey",
+    "response": "Hey there! \ud83d\udc4b How's it going? I'm WhiteGPT, your friendly AI and programming tutor. Whether you're curious about how AI works, need help debugging some code, or just want to chat tech, I'm here to help!  \n\nWhat's on your mind today? \ud83d\ude0a  \n\n(Examples of things we can dive into: Python syntax, neural networks, web dev, explaining algorithms, or even the latest in AI trends!)",
+    "timestamp": "2025-06-10T18:30:25.176537"
+  }
 ]
