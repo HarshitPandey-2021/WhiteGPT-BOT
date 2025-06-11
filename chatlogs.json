@@ -13,5 +13,32 @@
     "prompt": "hey",
     "response": "Hey there! \ud83d\udc4b How's it going? I'm WhiteGPT, your friendly AI and programming tutor. Whether you're curious about how AI works, need help debugging some code, or just want to chat tech, I'm here to help!  \n\nWhat's on your mind today? \ud83d\ude0a  \n\n(Examples of things we can dive into: Python syntax, neural networks, web dev, explaining algorithms, or even the latest in AI trends!)",
     "timestamp": "2025-06-10T18:30:25.176537"
+  },
+  {
+    "prompt": "Hey",
+    "response": "Hello! \ud83d\udc4b Welcome to WhiteGPT\u2014your friendly programming and AI tutor. How can I assist you today?  \n\nAre you looking to:  \n- **Understand a coding concept?** (e.g., recursion, OOP, algorithms)  \n- **Debug or optimize code?** (Share your snippet!)  \n- **Learn about AI/ML?** (e.g., neural networks, LLMs, PyTorch)  \n- **Explore tech tools?** (e.g., Git, Docker, APIs)  \n\nJust ask, and I\u2019ll break it down *clearly* and *step by step*. Let\u2019s dive in! \ud83d\ude80  \n\n*(Example questions: \u201cHow does a transformer model work?\u201d or \u201cWhy is my Python loop infinite?\u201d)*",
+    "timestamp": "2025-06-10T18:35:54.732617"
+  },
+  {
+    "prompt": "I am very sleepy but I am not sleeping because I have to work",
+    "response": "I totally get that feeling\u2014fighting sleep when you have deadlines or responsibilities can be exhausting! While pushing through might feel necessary, here are a few quick tips to help you stay alert *safely* (though nothing beats real sleep when possible!):\n\n### Quick Energy Boosters:\n1. **Bright Light** \u2013 Turn on all the lights or step outside for sunlight. This tricks your brain into \"daytime mode.\"  \n2. **Cold Water** \u2013 Splash your face, drink ice water, or hold something cold (like an ice pack to your wrists).  \n3. **Move Around** \u2013 Do 10 jumping jacks or stretch. Physical activity increases blood flow.  \n4. **Chew Gum** \u2013 The chewing motion can temporarily boost alertness.  \n5. **Power Nap (if possible)** \u2013 Even 10-15 minutes can help (set an alarm to avoid grogginess).  \n\n### If You\u2019re Coding/Working:\n- **Pomodoro Timer**: Work for 25 mins, then take a 5-min break (walk, hydrate).  \n- **Voice Notes**: If typing feels hard, talk out ideas and transcribe later.  \n- **Rubber Duck Debugging**: Explain your code aloud to stay engaged.  \n\n\u26a0\ufe0f **Caution**: If you\u2019re *dangerously* sleepy (e.g., driving), prioritize safety over work. A short nap > an accident.  \n\nNeed a distraction? I can explain a fun coding concept (like how ChatGPT works!) or help debug something to keep your mind active. Stay safe! \ud83d\udc99",
+    "timestamp": "2025-06-10T18:36:44.176271"
+  },
+  {
+    "timestamp": "2025-06-11T10:18:58.954069",
+    "user": "notwhite_88582",
+    "user_id": "1319724767099617283",
+    "prompt": "hey",
+    "response": "Hey! \ud83d\ude0a How's it going? What's on your mind?"
+  },
+  {
+    "prompt": "hi bro",
+    "response": "Hey there! \ud83d\udc4b What's up, bro? Ready to dive into some coding, AI, or tech stuff? Just hit me with whatever's on your mind\u2014I'm here to help! \ud83d\ude0e  \n\nWant to learn something new? Debug some code? Or just chat tech? Let's go! \ud83d\ude80  \n\n(P.S. I can even explain things with memes if you want. \ud83d\ude02)",
+    "timestamp": "2025-06-11T10:19:11.687433"
+  },
+  {
+    "prompt": "what is yur name",
+    "response": "Hi there! \ud83d\ude0a My name is **WhiteGPT**\u2014your friendly AI tutor here to help you with programming, AI concepts, tech explanations, and anything code-related! You can call me White for short.  \n\nThink of me as your personal coding mentor\u2014whether you're a beginner or an advanced learner, I'm here to break things down in a simple, engaging way.  \n\nWhat can I help you with today? \ud83d\ude80",
+    "timestamp": "2025-06-11T10:20:47.438421"
   }
 ]
