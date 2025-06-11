@@ -1,75 +1,103 @@
+ 🤖 WhiteGPT — AI Chatbot for Discord & Web
 
-# 🤖 WhiteGPT Discord Bot
+**WhiteGPT** is a full-stack AI conversational assistant built in **Python** using **Flask & Discord.py**, powered by **Together AI** open models like `DeepSeek-V3`.
 
-**WhiteGPT** is an intelligent Discord chatbot powered by **Together AI** and built with **Python**, **Flask**, and **Discord.py**. It supports both **web chat interface** and **Discord replies**, fully hosted on **Replit** for free — and runs 24/7 using cron jobs.
-
-
-## ✨ Features
-
-- 🤖 Responds to mentions on Discord (`@WhiteGPT What is AI?`)
-- 🌐 Includes a minimal ChatGPT-style **Web UI** (`Flask`)
-- 💾 Stores all chats in `chatlogs.json` (user, prompt, response)
-- 🔗 Powered by **Together AI** (e.g. `DeepSeek-V3`, `LLaMA`, `Mixtral`)
-- 🚀 Hosted free on Replit + cron-job.org for 24/7 uptime
+It's hosted 24/7 on **Render.com** with both a **modern web chat UI** and support for **Discord replies** using the same model.
 
 
-## 🔧 Technologies Used
+## 🌐 Live Chat URL
 
-- Python 3
-- Flask (for web UI)
-- Discord.py (for bot commands)
-- Together AI API
-- Replit (deployment)
+👉 https://whitegpt-bot-6b68.onrender.com/
 
----
+Use the web chat with:
+✅ Typing animation  
+✅ Chat bubbles  
+✅ Instant responses  
+✅ Reset button  
+✅ Seamless design (Mobile + Desktop)
 
-## 🌐 Live Web Chat
 
-You can access the web interface via:
+
+ ✨ Features
+
+- 🤖 Mention the bot on Discord (`@WhiteGPT`) and get GPT answers instantly
+- 💬 Ask questions via the web UI (Flask, styled chat window)
+- 💡 Powered by Together AI (`deepseek-v3`) and HuggingFace-like chat flow
+- 🔁 Reset button clears chat interface
+- 💾 All messages stored in `chatlogs.json` with timestamps
+- 🚀 Hosted FREE on [Render](https://render.com) — no Replit restarts needed
+
+
+
+🔧 Tech Stack
+
+ -Layer       | Tech                         
+--------------|------------------------------|
+  Backend     | Python, Flask                
+  Web UI      | HTML, CSS, JS (no frontend lib) 
+  Bot Engine  | discord.py                   
+  AI Models   | Together AI (`DeepSeek-V3`)  
+  Deployment  | Render.com                   
+  Storage     | `chatlogs.json` (per session logging) 
+
+
+
+ 🛠 Setup Instructions
+
+ 1. Clone Repo
+
+```bash
+git clone https://github.com/HarshitPandey-2021/WhiteGPT-BOT.git
+cd WhiteGPT-BOT
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Add Environment Variables
+
+Create `.env` locally or set in Render:
 
 ```
-https://168c2e60-9336-43f8-beb5-180859ab7d21-00-b3vesoqp8txa.pike.replit.dev/
+SECRET_KEY = your_discord_token
+TOGETHER_API_KEY = your_together_api_key
 ```
 
-Users can type to the bot in a simple form and get AI responses 🤖.
+### 4. Run Locally
 
+```bash
+python3 main.py
+```
 
-
-## 💬 Setup Instructions
-
-1. **Clone the repo** or use Replit
-2. Install dependencies:
-   ```bash
-   pip install discord.py flask together
-   ```
-3. Add environment variables:
-   - `SECRET_KEY` = *your Discord Bot Token*
-   - `TOGETHER_API_KEY` = *your Together API Key*
-4. Add `keepalive.py` to support web UI & uptime
-5. Use [cron-job.org](https://cron-job.org) to ping your Replit URL every 5 minutes
-
----
 
 ## 📁 File Structure
 
-```
-├── main.py           # Discord bot logic
-├── keepalive.py      # Flask + web UI
+
+whitegpt-bot/
+├── main.py           # Discord bot + keepalive trigger
+├── keepalive.py      # Flask server, chat endpoint, logging
 ├── templates/
-│   └── index.html    # HTML Web Chat UI
-├── chatlogs.json     # Saved chat history
-└── README.md         # This file
-```
+│   └── index.html    # Styled web UI (auto responsive)
+├── chatlogs.json     # Logs user + GPT replies (timestamped)
+├── requirements.txt
+└── README.md         # You're reading it!
 
----
 
-## 🚀 Credits
 
-**Built with ❤️ by Harshit Pandey**  
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Harshit Pandey**  
 GitHub → [@HarshitPandey-2021](https://github.com/HarshitPandey-2021)
 
----
 
 ## 🪪 License
 
-Licensed under the [MIT License](LICENSE)
+MIT License — free to use, build, and contribute 👍
+
+
+
+## ✨ Don't Forget to 🌟 Star the repo if you like it!
